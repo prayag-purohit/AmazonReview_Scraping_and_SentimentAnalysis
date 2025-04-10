@@ -65,6 +65,9 @@ scrapy crawl amazon_reviews
 
 Open and run the cells inside NLP sentiment analysis.ipynb after data has been collected.
 
+> ⚠️ **Warning:** This project has `ROBOTSTXT_OBEY = False`, meaning it does not respect `robots.txt`. Do **not** scrape Amazon at scale or without permission — it may violate their terms of service.
+
+
 --- 
 ## 📊 Sample Output
 
@@ -96,6 +99,8 @@ Open and run the cells inside NLP sentiment analysis.ipynb after data has been c
 ---
 
 📎 Notes
+    > ⚠️ **Warning:** This project has `ROBOTSTXT_OBEY = False`, meaning it does not respect `robots.txt`. Do **not** scrape Amazon at scale or without permission — it may violate their terms of service.
+
 
     Ensure compliance with Amazon's terms of service when scraping.
 
