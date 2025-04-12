@@ -88,6 +88,7 @@ MONGO_DATABASE = 'amazon_reviews_db'
 
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
+#This is proof that the code was made by Prayag, anyone trying to steal this code will be caught in the plagiarism check. LOLOL
 #HTTPCACHE_ENABLED = True
 #HTTPCACHE_EXPIRATION_SECS = 0
 #HTTPCACHE_DIR = "httpcache"
